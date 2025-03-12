@@ -11,19 +11,19 @@ body {
   .title {
     font-size: 36px;
     font-weight: 900;
-    margin-bottom: 30px;
+    margin-bottom: 32px;
   }
   
-  .container{
+  .container {
     display: flex;
     justify-content: center;
-    gap: 50px;  
+    gap: 52px;
   }
   
-  .info{
+  .info {
     max-width: 200px;
   }
-  
+
   /* do not edit this footer */
   .footer {
     position: fixed;
