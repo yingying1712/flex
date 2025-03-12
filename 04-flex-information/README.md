@@ -5,4 +5,4 @@ The goal of this exercise is to recreate a section that is found on many informa
 In this assignment need to add containers around the various elements so that it can be flex.  
 
 # Desired Outcome  
-![Desired Outcome]()
+![Desired Outcome](https://github.com/yingying1712/flex/blob/main/04-flex-information/desired-outcome.png?raw=true)
