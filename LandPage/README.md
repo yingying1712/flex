@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d4c1188b-1dc3-4985-995f-30a80af17c06)# Project: Landing Page
+# Project: Landing Page
 
 For this project, I will be creating an entire web page. It is a practice for me to build a full page using the Flexbox method in HTML and CSS.  
 
