@@ -7,4 +7,8 @@ It is a classic design pattern that includes a header, footer, sidebar, and main
 By utilizing Flexbox, this layout can be efficiently built with minimal effort while ensuring responsiveness and flexibility across different screen sizes.  
 
 # Desired Outcome
-![Desired Outcome]()
+![Desired Outcome](https://github.com/yingying1712/flex/blob/main/07-flex-layout-2/desired-outcome.png?raw=true)
+
+On a smaller screen it will look like this:  
+
+![Desired Outcome Smaller](https://github.com/yingying1712/flex/blob/main/07-flex-layout-2/desired-outcome-smaller.png?raw=true)
